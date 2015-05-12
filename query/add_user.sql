@@ -2,7 +2,7 @@
 select add_user(2901769,'anushap','FFFF00',true);
 select add_user(2900372,'Apreethi','00FF00',true);
 select add_user(2901816,'arjun sekhar','EE3344',true);
-select add_user(2897305,'Ashok09','3E8380'',true);
+select add_user(2897305,'Ashok09','3E8380',true);
 select add_user(2901516,'bindhu','FF8A00',true);
 select add_user(2900596,'harisha','3E8380',true);
 select add_user(2901806,'harishkonda','FF8A00',true);
