@@ -24,7 +24,7 @@ select add_user(2905508,'sdivya','0171C5',true);
 select add_user(2901502,'shalinins','FFFF00',true);
 select add_user(2900616,'shekarn','00FF00',true);
 select add_user(2897038,'shiva05','EE3344',true);
-select add_user(2900434,'Smallikarjuna','3E8380'',true);
+select add_user(2900434,'Smallikarjuna','3E8380',true);
 select add_user(2901480,'sowjanyaaa','FF8A00',true);
 select add_user(2897104,'Srikanth07','3E8380',true);
 select add_user(2900563,'thrinath','FF8A00',true);
