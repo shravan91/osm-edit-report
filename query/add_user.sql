@@ -46,21 +46,9 @@ select add_user(2901508,'samuelmj','6ACCCC',true);
 select add_user(2913195,'sathishshetty','FA58F4',true);
 select add_user(2907738,'vamshiN','6ACCCC',true);
 select add_user(2915921,'venugopal009','3E8380',true);
-select add_user(2901490,'vikramsingh','6ACCCC',true);
+select add_user(2901490,'vikramsingh','996633',true);
 select add_user(2906661,'vraju','6ACCCC',true);
-
-
-
-
-
-
-
-
-
-
-
-
-
+select add_user(2915929,'hareesh11','996633',true);
 
 
 --UPDATE osm_user
